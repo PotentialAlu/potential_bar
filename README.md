@@ -1,4 +1,5 @@
 # Potential_bar
+![image](https://user-images.githubusercontent.com/96730056/153717555-c8f51729-7206-4d22-8233-b42881ef9290.png)
 
 #### Beautiful , fast , simple bar for dwm with multiple themes
 * gruvchad
