@@ -1,6 +1,9 @@
 # potential_bar
 Beautiful , fast , simple bar for dwm :)
 
-*green
-How to use
+## How to use
 
+* First clone the repro:
+'''
+https://github.com/PotentialAlu/potential_bar
+'''
